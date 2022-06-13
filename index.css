@@ -54,7 +54,6 @@ o conteúdo desejado, por isso sempre crie seu conteúdo em html dentro da div #
 #content{
     background-color: white;
     width: 100vw;
-
     overflow-y: scroll;
 }
 div#nav{
@@ -113,9 +112,9 @@ a{
 
 #company_01{
     background-color: #D5F8FB;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 
 
 }
@@ -155,9 +154,9 @@ a{
 /** Estilização separada destinada ao frame 2 do slide!**/
 #company_02{
     background-color: #D5E8FF;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_02_title{
     text-align: center;
@@ -199,9 +198,9 @@ a{
 
 #company_03{
     background-color: #FFE8DA;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_03_title{
     text-align: center;
@@ -258,9 +257,9 @@ a{
 
 #company_04{
     background-color: #D4EEFA;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_04_title{
     text-align: center;
@@ -310,9 +309,9 @@ a{
 
 #company_05{
     background-color: #D5F8FB;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 
 }
 #company_05_title{
@@ -348,9 +347,9 @@ a{
 
 #company_06{
     background-color: #D5E8FF;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_06_title{
     text-align: center;
@@ -400,8 +399,6 @@ a{
 
 #company_07{
     background-color: #D5F8FB;
-    min-height: 100vh;
-    max-height: 300vh;
 }
 #company_07_title{
     text-align: center;
@@ -525,9 +522,9 @@ a{
 
 #company_08{
     background-color: #FCECE2;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_08_title{
     text-align: center;
@@ -599,9 +596,9 @@ a{
 
 #company_09{
     background-color: #FFFFFF;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_09_title{
     text-align: center;
@@ -658,9 +655,9 @@ a{
 
 #company_10{
     background-color: #E7FAFD;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_10_title{
     text-align: center;
@@ -721,9 +718,9 @@ a{
 
 #company_11{
     background-color: #D5E8FF;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_11_title{
     text-align: center;
@@ -916,9 +913,9 @@ a{
 
 #company_12{
     background-color: #D5F8FB;
-    min-height: 100vh;
-    max-height: 300vh;
-    padding-top: 4vh;
+    height: 100vh;
+    overflow-y: scroll;
+    width: 100vw;
 }
 #company_12_title{
     text-align: center;
